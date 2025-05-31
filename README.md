@@ -5,6 +5,7 @@
 ### Incremental
 
 - [The Kittens Game](https://kittensgame.com/web/) - игра про котят, симулятор кошачьей цивилизации;
+- [The Dark Room](https://adarkroom.doublespeakgames.com/)
 - [Evolve](https://pmotschmann.github.io/Evolve) — очень глубокая игра про развитие цивилизации от аминокислот до освоения других измерений;
 - [Swarm Sim](https://www.swarmsim.com/) — управлять роем насекомых;
 - [Trimps](https://trimps.github.io/) — разводить тримпов;
