@@ -1,6 +1,4 @@
-![image](https://github.com/user-attachments/assets/12242844-4261-474f-bc4d-2a70b6eec0c1)# games
-
-## Browser games
+## Браузерные
 
 ### Incremental
 - https://mkremins.github.io/epitaph
