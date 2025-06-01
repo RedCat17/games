@@ -19,6 +19,15 @@
 ### Экспериментальные
 - [Epitaph](https://mkremins.github.io/epitaph) — смотреть за развитием инопланетных цивилизаций;
 
+### Стратегии
+- ShellCore Command
+- Eridani
+
+### Симуляторы
+- Bomber Life
+- Galaxy Siege
+- Incredibots
+
 ## ПК
 
 ### Песочницы
