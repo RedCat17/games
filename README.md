@@ -23,6 +23,7 @@
 ### Стратегии
 - ShellCore Command
 - Eridani
+- Oiligarchy
 
 ### Симуляторы
 - Bomber Life
@@ -36,6 +37,7 @@
 - Factorio;
 - KSP
 - Rimworld
+- Airships: Conquer the Skies
 
 ### Стратегии
 - EU4
