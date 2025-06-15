@@ -29,6 +29,7 @@
 - Bomber Life
 - Galaxy Siege
 - Incredibots
+- Rubble Trouble
 
 ## ПК
 
