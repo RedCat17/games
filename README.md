@@ -15,7 +15,7 @@
 - [Candy Box](https://candybox2.github.io/) — классика про конфеты с ASCII-графикой;
 - [Spaceplan](http://jhollands.co.uk/spaceplan/) — игра про терраформирование и картошку с прикольной графикой;
 - [Arcanum](https://mathiashjelm.gitlab.io/arcanum/) — очень глубокая игра про магию;
-- [Critter Mound]
+- [Critter Mound](https://jayseesee.github.io/Crittermound-Fork/) — симулятор муравейника... с реалистичной генетикой!
 
 ### Экспериментальные
 - [Epitaph](https://mkremins.github.io/epitaph) — смотреть за развитием инопланетных цивилизаций;
