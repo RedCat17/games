@@ -39,6 +39,17 @@
 - KSP
 - Rimworld
 - Airships: Conquer the Skies
+- Noita
+- Cosmoteer
+- Astroneer
+- Mindustry
+- Factorio
+- Reassembly
+- Kerbal Space Program
+- SimpleRockets 2
+- Spore
+- The Powder Toy
+
 
 ### Стратегии
 - EU4
