@@ -31,6 +31,9 @@
 - Incredibots
 - Rubble Trouble
 
+### Квесты
+- [SW: The Mary Reed Chronicles](https://armorgames.com/play/7211/sw-the-mary-reed-chronicles)
+
 ## ПК
 
 ### Песочницы
