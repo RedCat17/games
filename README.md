@@ -36,6 +36,7 @@
 
 ### Квесты
 - [SW: The Mary Reed Chronicles](https://armorgames.com/play/7211/sw-the-mary-reed-chronicles)
+- Little Wheel
 
 ### Головоломки
 - Chronotron
@@ -66,9 +67,25 @@
 - Spore
 - The Powder Toy
 
-
 ### Стратегии
 - EU4
+
+### RTS
+- Rusted Warfare
+- Redcon
+- Creeper World 1-3 (4 не очень)
+
+### Пошаговые стратегии
+- Кризис в Кремле
+
+### Квесты
+- Machinarium
+- Samorost 1-3
+
+### Симуляторы
+- NEO Scavenger;
+- Project Zomboid;
+- Cataclysm: Dark Days Ahead.
 
 ## Список из чата
 
