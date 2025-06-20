@@ -32,6 +32,7 @@
 - Galaxy Siege
 - Incredibots
 - Rubble Trouble
+- [Mecha Arena](https://armorgames.com/play/14097/mecha-arena)
 
 ### Квесты
 - [SW: The Mary Reed Chronicles](https://armorgames.com/play/7211/sw-the-mary-reed-chronicles)
