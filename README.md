@@ -38,6 +38,10 @@
 ### Головоломки
 - Chronotron
 
+### Стрелялки
+- StrikeForce Kitty
+- StrikeForce Heroes
+
 ## ПК
 
 ### Песочницы
