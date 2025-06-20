@@ -24,6 +24,7 @@
 - ShellCore Command
 - Eridani
 - Oiligarchy
+- Robotic Emergence
 
 ### Симуляторы
 - Bomber Life
@@ -33,6 +34,9 @@
 
 ### Квесты
 - [SW: The Mary Reed Chronicles](https://armorgames.com/play/7211/sw-the-mary-reed-chronicles)
+
+### Головоломки
+- Chronotron
 
 ## ПК
 
