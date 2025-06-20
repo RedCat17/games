@@ -25,6 +25,7 @@
 - Eridani
 - Oiligarchy
 - Robotic Emergence
+- House of Wolves
 
 ### Симуляторы
 - Bomber Life
