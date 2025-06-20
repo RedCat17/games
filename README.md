@@ -42,6 +42,9 @@
 - StrikeForce Kitty
 - StrikeForce Heroes
 
+### RPG
+- Epic Battle Fantasy
+
 ## ПК
 
 ### Песочницы
