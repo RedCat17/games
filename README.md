@@ -87,6 +87,28 @@
 - Project Zomboid;
 - Cataclysm: Dark Days Ahead.
 
+## Попробовать
+- Particle fleet: Emergence
+- Automation Empire
+- Hydroneer
+- Wrench 
+- GearCity
+- Ashes of the Union
+- UnderRail 
+- Endzone 2
+- Arksync 
+- Templar Battleforce
+- Low Magic Age
+- FUMES  https://tarkovsky.itch.io/fumes
+- Beyond the Chiron Gate
+- Seablip
+- Sipho 
+- Retro Gadgets
+- Soulash 2
+- ZERO Sievert
+- FRANZ FURY
+- Owlboy
+
 ## Список из чата
 
 RTS:
