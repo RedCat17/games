@@ -35,6 +35,7 @@
 - Incredibots
 - Rubble Trouble
 - [Mecha Arena](https://armorgames.com/play/14097/mecha-arena)
+- [Steamlands](https://armorgames.com/play/12286/steamlands) — строить паровые танки, послужила вдохновением для Machine Lands.
 
 ### Квесты
 - [SW: The Mary Reed Chronicles](https://armorgames.com/play/7211/sw-the-mary-reed-chronicles)
