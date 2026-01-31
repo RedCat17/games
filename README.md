@@ -16,6 +16,7 @@
 - [Spaceplan](http://jhollands.co.uk/spaceplan/) — игра про терраформирование и картошку с прикольной графикой;
 - [Arcanum](https://mathiashjelm.gitlab.io/arcanum/) — очень глубокая игра про магию;
 - [Critter Mound](https://jayseesee.github.io/Crittermound-Fork/) — симулятор муравейника... с реалистичной генетикой!
+- [Reactor Game](https://reactoridle.com/) — строить электростанции.
 
 ### Экспериментальные
 - [Epitaph](https://mkremins.github.io/epitaph) — смотреть за развитием инопланетных цивилизаций;
@@ -26,6 +27,7 @@
 - Oiligarchy
 - Robotic Emergence
 - House of Wolves
+- [Helixteus](https://apple0726.itch.io/helixteus-3) — самая масштабная браузерная игра, что я видел.
 
 ### Симуляторы
 - Bomber Life
@@ -53,7 +55,6 @@
 ### Песочницы
 - Terratech;
 - Factorio;
-- KSP
 - Rimworld
 - Airships: Conquer the Skies
 - Noita
